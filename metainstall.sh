@@ -6,14 +6,8 @@ apt install toilet -y
 
 clear
 
-toilet -f pagga HORUS TEAM --filter gay
-sleep 2
-
 toilet -f wideterm SYSTEM FAILURE --filter metal
 sleep 2
-
-toilet -f wideterm SCRIPT POR HORUS TEAM --filter metal
-sleep 3
 
 
 echo ""
@@ -95,49 +89,6 @@ echo ""
 echo "Metasploit Framework se ha Instalado con Exito"
 sleep 2
 
-echo ""
-echo ""
-
-
-toilet -f pagga HORUS TEAM --filter gay
-sleep 2
-echo ""
-echo "==========================================="
-toilet -f wideterm SCRIPT POR TEAM HORUS --filter gay
-sleep 3
-echo "==========================================="
-echo ""
-toilet -f wideterm SYSTEM FAILURE --filter metal
-sleep 1
-echo "==========================================="
-echo ""
-toilet -f wideterm Ag. Perry --filter metal
-sleep 1
-echo "==========================================="
-echo ""
-toilet -f wideterm Mithrandir --filter metal
-sleep 1
-echo "==========================================="
-echo ""
-toilet -f wideterm Fernando --filter metal
-sleep 1
-echo "==========================================="
-echo ""
-toilet -f wideterm Blanco --filter metal
-sleep 1
-echo "==========================================="
-echo ""
-toilet -f wideterm Javier Unknown --filter metal
-sleep 1
-echo "==========================================="
-echo ""
-toilet -f wideterm HORUS --filter metal
-sleep 1
-echo "==========================================="
-echo ""
-toilet -f wideterm Error0x00021 --filter metal
-sleep 3
-echo "==========================================="
 echo ""
 echo ""
 
